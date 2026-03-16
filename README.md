@@ -51,7 +51,7 @@ A gambling simulation tool based on the game of roulette. This project focuses o
     # or
     ./ruleta.sh -m 100 -t martingala
     ```
-
+Additionally, in each program you can use the `-h` parameter to display the help panel and learn in detail what the program offers and how to use it.
 ---
 
 ## 📚 Credits
